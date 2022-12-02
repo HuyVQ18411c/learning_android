@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <product>
+        <id>1</id>
+        <name>Sữa rửa mặt</name>
+        <price>75000</price>
+        <quantity>1</quantity>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Khăn choàng cổ</name>
+        <price>50000</price>
+        <quantity>3</quantity>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Hoodie Hồng</name>
+        <price>300000</price>
+        <quantity>6</quantity>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Dầu gội Premium</name>
+        <price>200000</price>
+        <quantity>2</quantity>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Sữa Dutch Lady</name>
+        <price>90000</price>
+        <quantity>10</quantity>
+    </product>
+</store>

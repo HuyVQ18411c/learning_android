@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sữa rửa mặt",
+        "price": 75000,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Khăn choàng cổ",
+        "price": 50000,
+        "quantity": 3
+    },
+    {
+        "id": 3,
+        "name": "Hoodie Hồng",
+        "price": 300000,
+        "quantity": 5
+    },
+    {
+        "id": 4,
+        "name": "Dầu gội Premium",
+        "price": 200000,
+        "quantity": 10
+    },
+    {
+        "id": 5,
+        "name": "Sữa Dutch Lady",
+        "price": 90000,
+        "quantity": 2
+    }
+]
